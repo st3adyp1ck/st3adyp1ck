@@ -1,17 +1,8 @@
 👋 About Me
-Hi there! I'm Ilya Belous, a junior web developer passionate about creating beautiful and functional web experiences. I'm currently diving into the world of web development, eager to learn and grow in this dynamic field.
+I'm a Full-Stack Software Developer passionate about building scalable, user-centric web applications and platforms. With expertise in modern JavaScript frameworks like React, Next.js, and Node.js, alongside cloud technologies like AWS and Kubernetes, I also specialize in integrating AI capabilities using frameworks like LangChain and deploying solutions powered by Large Language Models (LLMs). My focus is on crafting innovative, data-driven solutions that drive digital engagement, enhance functionality, and solve complex technical challenges. I thrive in collaborative environments, delivering clean, maintainable code and exceptional user experiences.
 
-💼 Professional Background
-I have a solid foundation in HTML, CSS, and JavaScript, and I'm proficient in using Bootstrap to build responsive and visually appealing websites. As a junior developer, I'm excited to apply my skills and tackle new challenges in the world of web development.
-
-🌱 Currently Learning
-I'm actively expanding my knowledge of JavaScript to enhance the interactivity and functionality of web applications. Additionally, I'm exploring advanced CSS techniques and design principles to create sleek and modern user interfaces.
-
-🚀 Goals
-My goal is to continue honing my skills in web development and eventually become a proficient full-stack developer. I'm eager to contribute to projects, collaborate with peers, and make meaningful contributions to the web development community.
-
-📫 Get in Touch
-LinkedIn: Ilya Belous
-Instagram: @northstardev
-Portfolio: IlyaBelous.dev
-Feel free to connect with me on LinkedIn, follow me on Instagram, or check out my portfolio to see some of my projects and get in touch!
+🔧 Skills
+Languages & Frameworks: React, TypeScript, JavaScript, Next.js, Redux
+Platforms & Tools: AWS, Docker, Kubernetes, GraphQL, MongoDB, LangChain
+AI Specializations: Integration of Large Language Models (LLMs), AI-driven tools, chatbot development, conversational AI frameworks
+Core Competencies: Responsive design, SEO optimization, UI/UX refinement, data-driven development
