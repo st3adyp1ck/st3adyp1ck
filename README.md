@@ -1,95 +1,100 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=👨‍💻+Full-Stack+Wizard+@+NorthStar+Coding;🚀+Building+Scalable+Web+%26+AI+Solutions;🌟+Empowering+Businesses+with+FREE+Software" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:05060A,35:2F7FF5,70:8FC0FF,100:F26A1B&text=Ilya%20Belous&fontColor=E3EEFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20Northstar%20Software%20Development&descAlignY=58&descSize=18&descColor=93A4BE" width="100%"/>
+
+<a href="https://www.northstarcoding.com"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1800&color=8FC0FF&center=true&vCenter=true&width=650&lines=Building+production+software%2C+start+to+finish;React+%2F+Next.js+%2F+Node+%2F+TypeScript;AI-agent+tooling+%C2%B7+Windows+desktop+%C2%B7+cloud+infra;Founder+%40+Northstar+Software+Development" alt="Typing SVG"/></a>
+
 </div>
 
----
+<br/>
 
-### 🌟 Hey, I'm Ilya! 
+## About
 
-I'm a **Full-Stack Software Developer** obsessed with crafting **scalable, user-centric web apps** and **AI-powered solutions** that make businesses thrive. As the brain behind **NorthStar Coding**, I’m revolutionizing SMB tech.
-With a knack for **React**, **Next.js**, **AWS**, and **AI frameworks** like **LangChain**, I build tools that are fast, secure, and delightful to use. My mission? Empower businesses with **affordable, innovative tech** that scales without breaking the bank. 🚀
+I'm Ilya — a full-stack engineer running **[Northstar Software Development](https://www.northstarcoding.com)**, where I build production software for founders and teams: web apps, AI-agent tooling, and native desktop tools when a browser tab isn't the right shape for the problem.
 
----
+I work the whole stack myself, end to end — typed front to back, migrations that don't lie, UI that doesn't jank. Currently building **AURORA**, a multi-agent orchestration system, and a HUD-style Windows desktop control center for my own workflow.
 
-### 🔥 What I Do
+<br/>
 
-- 🛠️ **Full-Stack Magic**: End-to-end web apps with React, Next.js, Node.js, and TypeScript.
-- 🤖 **AI Integration**: Powering apps with Large Language Models (LLMs) and conversational AI via LangChain.
-- ☁️ **Cloud Mastery**: Deploying scalable solutions on AWS, Docker, and Kubernetes.
-- 📊 **Data-Driven Design**: Optimizing UX, SEO, and performance for maximum impact.
-- 💅 **NorthStar Coding**: Leading the charge with FREE salon suites, enterprise portals, and dashboards ([northstarcoding.com](http://northstarcoding.com)).
+## Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding GIF" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,vite,docker,aws,postgres,supabase,git,flutter,rust,python,figma&theme=dark&perline=9" alt="Tech stack icons"/>
 </div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## Featured Work
 
-| **Category** | **Tools & Tech** |
-|--------------|------------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
-| **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=FF9900&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat) |
-| **AI & Data** | ![LangChain](https://img.shields.io/badge/-LangChain-FF6F61?logo=python&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat) |
-| **Core Skills** | ![UI/UX](https://img.shields.io/badge/-UI%2FUX-00C4B4?logo=figma&logoColor=white&style=flat) ![SEO](https://img.shields.io/badge/-SEO-4285F4?logo=google&logoColor=white&style=flat) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**[northstar-devkit](https://github.com/st3adyp1ck/northstar-devkit)**
+A Tauri v2 + Rust + PowerShell desktop toolkit for Windows developers — 65+ tools behind an always-on companion widget, a long-lived PowerShell RPC sidecar, a signed installer, and a self-hosted auto-update pipeline shipped through GitHub Actions.
+`Rust` `TypeScript` `Tauri` `PowerShell`
 
-### 🌟 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-- **[NorthStar Coding](http://wwwnorthstarcoding.com)**: FREE software and suites for SMBs with AI analytics, booking systems, and scalable dashboards.
-  - *Impact*: Saved clients $2,400+/year on average.  
-  - *Tech*: React, Next.js, AWS, LangChain.  
-  - 👉 [Try it now!](http://www.northstarcoding.com)
+**[northstar_wonderland](https://github.com/st3adyp1ck/northstar_wonderland)**
+A tablet-native, gamified K–8 homeschool app — quest-map navigation, an in-app rewards economy, and an OpenRouter-backed AI tutor that degrades gracefully with no key set. Vite frontend, Express API, Postgres via Docker Compose.
+`React` `TypeScript` `Node.js` `Postgres`
 
-- **[Salon Portall](https://salonportal.netlify.app)**: A FREE salon management suite with AI-driven scheduling and client tracking.  
-  - *Impact*: Reduced booking errors by 50% for users.  
-  - *Tech*: TypeScript, MongoDB, GraphQL.  
-  - 👉 [Check it out!](https://salonportal.netlify.app)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- **[Enterprise Dashboard](https://ns-enterprise-dash.netlify.app)**: FREE scalable portal for businesses with real-time analytics and team management.  
-  - *Impact*: Boosted efficiency for 200+ enterprises.  
-  - *Tech*: Node.js, Docker, Kubernetes.  
-  - 👉 [Explore it!](https://ns-enterprise-dash.netlify.app)
+**[CONECTA](https://github.com/st3adyp1ck/CONECTA)**
+A bilingual (EN/ES) travel app for San Cristóbal de las Casas — transit routes, a local market navigator, event guides, and an admin content dashboard on Supabase auth/storage.
+`React` `TypeScript` `Supabase` `Google Maps API`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats & Activity
+**[DebtOptimize](https://github.com/st3adyp1ck/fintechPOC)**
+A high-fidelity fintech UX prototype built for client pitch work — a full onboarding funnel, interactive settlement simulator, and a dashboard suite, all built on deterministic, transparent calculation logic.
+`React 19` `Framer Motion` `Recharts` `Tailwind v4`
+
+</td>
+</tr>
+</table>
+
+<sub>More at [northstarcoding.com](https://www.northstarcoding.com) — including **AURORA** (multi-agent orchestration), **DARKHORSE AI** (predictive market intelligence), and **DIALED WEB** (3D interactive marketing sites).</sub>
+
+<br/>
+
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=st3adyp1ck&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st3adyp1ck&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+<img src="https://github-stats-extended.vercel.app/api?username=st3adyp1ck&show_icons=true&hide_border=true&count_private=true&title_color=8FC0FF&icon_color=2F7FF5&text_color=E8EFFA&bg_color=05060A" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=st3adyp1ck&layout=compact&hide_border=true&title_color=8FC0FF&bg_color=05060A&text_color=E8EFFA&langs_count=8" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st3adyp1ck&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
+<img src="https://streak-stats.demolab.com?user=st3adyp1ck&hide_border=true&background=05060A&ring=2F7FF5&fire=F26A1B&currStreakLabel=8FC0FF&sideLabels=93A4BE&currStreakNum=E8EFFA&sideNums=E8EFFA&dates=748298" alt="GitHub Streak"/>
 </div>
 
----
-
-### 📬 Let’s Connect!
-
-I’m always up for a chat about **code**, **AI**, or **scaling businesses** with affordable tech. Reach out to:  
-- 📩 DM me on [LinkedIn](https://www.linkedin.com/in/ib310us)  
-- 🌐 Check out [NorthStar Coding](http://www.northstarcoding.com)  
-
-- 📂 Explore my repos on [GitHub](https://github.com/st3adyp1ck)
-
 <div align="center">
-  <a href="http://www.northstarcoding.com">
-    <img src="https://img.shields.io/badge/Try_NorthStar_Coding-FREE-00FF88?style=for-the-badge&logo=rocket&logoColor=black" alt="NorthStar Coding" />
-  </a>
+<img src="https://raw.githubusercontent.com/st3adyp1ck/st3adyp1ck/output/github-snake.svg" alt="Contribution snake animation" width="100%"/>
 </div>
 
----
+<br/>
 
-### 💭 Fun Fact
-
-> “Code is like poetry—when it’s clean, it sings.” ✨  
-> I’m on a mission to make tech accessible, one commit at a time. Let’s build something amazing together! 🚀
+## Connect
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=St3adyp1ck&color=green&style=flat" alt="Profile Views" />
+
+[![Website](https://img.shields.io/badge/northstarcoding.com-05060A?style=for-the-badge&logo=vercel&logoColor=8FC0FF)](https://www.northstarcoding.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05060A?style=for-the-badge&logo=linkedin&logoColor=8FC0FF)](https://www.linkedin.com/in/ib310us)
+[![Client Work](https://img.shields.io/badge/Client_%26_Partner_Work-05060A?style=for-the-badge&logo=github&logoColor=F26A1B)](https://github.com/b3lousilya)
+
+<sub>This is my personal & open-source account. For client/partner engineering work, see <a href="https://github.com/b3lousilya"><strong>@b3lousilya</strong></a>.</sub>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F26A1B,50:8FC0FF,100:2F7FF5&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=st3adyp1ck&color=2F7FF5&style=flat&label=Profile+Views" alt="Profile views"/>
 </div>
